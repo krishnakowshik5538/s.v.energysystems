@@ -1,0 +1,108 @@
+body{
+    background-color: p;
+}
+h1{
+    font-size: smaller;
+}
+h2{
+    font-size: small;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    letter-spacing: 0.01rem;
+    line-height: 1.3rem;
+    word-spacing: 0.1rem;
+    text-align: justify;
+}
+.aa{
+    padding-left: 1200px;
+}
+h5{
+    font-size: large;
+}
+.b{
+    background-color: lawngreen;
+}
+th{
+    color: blue;
+}
+.d{
+    padding-left: 100px;
+}
+#ak{
+    display: inline;
+    display: flex;
+    display: inline-block;
+    text-align: center;
+}
+.p{
+    display: inline;
+    display: flex;
+    display: inline-block;
+}
+#n{
+    font-size: larger;
+}
+.u{
+    padding-left: 200px;
+}
+*{
+    text-decoration: none;
+}
+.z{
+    /*background:linear-gradient(to right,rgb(156, 228, 13),rgb(22, 211, 123));*/
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.q{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px;
+    color: black;
+}
+li a{
+    color: rgb(12, 10, 10); 
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.para{
+    letter-spacing: 0.01rem;
+    line-height: 1.3rem;
+    word-spacing: 0.1rem;
+    text-align: justify;
+    padding-left: 30px;
+}
+.kk{
+    letter-spacing: 0.01rem;
+    line-height: 1.3rem;
+    word-spacing: 0.1rem;
+    text-align: justify;
+    padding-left: 30px;
+}
+.ha{
+    letter-spacing: 0.01rem;
+    line-height: 1.3rem;
+    word-spacing: 0.1rem;
+    text-align: justify;
+    padding-left: 30px;
+}
+*{
+    padding: 0px,10px,10px,10px;
+    
+}
+.ho:hover{
+    color: rgb(216, 216, 21);
+}
+nav>li:hover{
+    color: rgb(190, 190, 30);
+}

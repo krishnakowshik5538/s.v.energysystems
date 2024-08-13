@@ -1,0 +1,47 @@
+h1{
+    font-size: smaller;
+}
+h2{
+    font-size: small;
+}
+h3{
+    font-size: xx-large;
+    background-color: yellow;
+    font-style: oblique;
+    
+}
+h4{
+    font-size: xx-large;
+}
+.nk{
+    color: #ffc107 !important;
+    font-family:sans-serif;
+
+}
+*{
+    text-decoration: none;
+}
+.p{
+    /*background:linear-gradient(to right,rgb(156, 228, 13),rgb(22, 211, 123));*/
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.q{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px;
+    color: black;
+}
+li a{
+    color: rgb(12, 10, 10); 
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
